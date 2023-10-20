@@ -1,6 +1,6 @@
 //
-//  CodingFlight_W06App.swift
-//  CodingFlight_W06
+//  TicTacToeApp.swift
+//  TicTacToe
 //
 //  Created by MacBook Pro on 20/10/23.
 //
@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct CodingFlight_W06App: App {
+struct TicTacToeApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
